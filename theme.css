@@ -209,10 +209,10 @@ body {
   /* ---------------- main ------------- */
 body {
     --divider-width: 0.05em;
-    --font-ui-medium: 0.97em;
+    --font-ui-medium: 0.93em;
     --font-ui-large: 1.15em;
-    --font-ui-small: 0.95em;
-    --font-ui-smaller: 0.9em;
+    --font-ui-small: 0.90em;
+    --font-ui-smaller: 0.85em;
     --radius-s: 3px;
 }
 
